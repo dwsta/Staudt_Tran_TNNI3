@@ -1,0 +1,50 @@
+,Gene,AA.wt,AA.change,AA.pos,Variant,DCM.phenotype,HCM.phenotype,RCM.phenotype,Clinical.significance,Domain,Virus.ID,Virus.barcode
+1,TNNI3,R,H,192,R192H,TRUE,TRUE,TRUE,Pathogenic,C-terminal mobile domain [164-210],3H.9,tgtctctcactctctgtgtctgacacagag
+2,TNNI3,K,Q,36,K36Q,TRUE,FALSE,FALSE,Pathogenic,Unspecified [31-41],3Q.10,tgacagtcagactgtgtgtgtgagagtcac
+3,TNNI3,D,N,196,D196N,TRUE,TRUE,TRUE,Pathogenic/Likely pathogenic,C-terminal mobile domain [164-210],A1.2,actctctctctctctgacactgacactcac
+4,TNNI3,K,E,178,K178E,FALSE,TRUE,FALSE,Pathogenic,C-terminal mobile domain [164-210],A10.1,agagtgtgtcacactgtgtcagagagtgtg
+5,TNNI3,K,N,174,K174N,FALSE,FALSE,TRUE,Pathogenic,C-terminal mobile domain [164-210],A11.2,tcagtgacactgtgtctgtctgtgtctctg
+6,TNNI3,R,P,170,R170P,FALSE,TRUE,FALSE,Pathogenic,C-terminal mobile domain [164-210],A12.2,tgtctcactcactgtctgtcagtctgactg
+7,TNNI3,R,C,192,R192C,TRUE,TRUE,TRUE,Pathogenic/Likely pathogenic,C-terminal mobile domain [164-210],A2.3,agtcactctctctctgagagagagtctgtg
+8,TNNI3,D,G,190,D190G,FALSE,TRUE,TRUE,Pathogenic,C-terminal mobile domain [164-210],A3.20,agtctctctgtcactctcagtgtctctctc
+9,TNNI3,R,Q,186,R186Q,FALSE,TRUE,FALSE,Pathogenic/Likely pathogenic,C-terminal mobile domain [164-210],A4.1,tgtctcagactgacagtctctgtgagagag
+10,TNNI3,N,K,185,N185K,TRUE,FALSE,FALSE,Pathogenic,C-terminal mobile domain [164-210],A5.6,tctctcacacagtgagactgacagagtcac
+11,TNNI3,K,N,183,K183N,FALSE,TRUE,FALSE,Pathogenic,C-terminal mobile domain [164-210],A6.2,tgtgagagacagtctctgtgtcagagtctg
+12,TNNI3,K,T,183,K183T,FALSE,FALSE,FALSE,Pathogenic,C-terminal mobile domain [164-210],A7.8,tctgagtctcacactctgtctctgacagtc
+13,TNNI3,K,E,183,K183E,FALSE,FALSE,FALSE,Pathogenic,C-terminal mobile domain [164-210],A8.10,tgactctgagtcacacagtcacactcagtg
+14,TNNI3,E,K,182,E182K,TRUE,TRUE,FALSE,Pathogenic/Likely pathogenic,C-terminal mobile domain [164-210],A9.2,actgtctgagagagtgtgtctgagagtgtg
+15,TNNI3,R,Q,170,R170Q,FALSE,TRUE,TRUE,Pathogenic,C-terminal mobile domain [164-210],C1.7,tctcactctctgtgtctctctgagagacac
+16,TNNI3,R,G,145,R145G,FALSE,TRUE,FALSE,Pathogenic,Switch region [137-163],C10.3,tcagtcagtcactcagtgactcagtcagac
+17,TNNI3,L,Q,144,L144Q,FALSE,FALSE,TRUE,Pathogenic,Switch region [137-163],C11.1,tgagagtctgtgtgagtctgactgacacag
+18,TNNI3,R,Q,141,R141Q,TRUE,TRUE,TRUE,Pathogenic/Likely pathogenic,Switch region [137-163],C12.5,acagtgtgtgtgagtctctgagacacagag
+19,TNNI3,R,W,170,R170W,FALSE,TRUE,TRUE,Pathogenic/Likely pathogenic,C-terminal mobile domain [164-210],C2.1,tgactgtgagagtctgtgagtgacactgag
+20,TNNI3,S,F,166,S166F,FALSE,TRUE,FALSE,Pathogenic/Likely pathogenic,C-terminal mobile domain [164-210],C3.6,tcactgagtcagtcagtcagtgtcagtgag
+21,TNNI3,R,P,162,R162P,FALSE,TRUE,FALSE,Pathogenic/Likely pathogenic,Switch region [137-163],C4.1,tgtcactgacagacagtgtcagtgagagag
+22,TNNI3,R,Q,162,R162Q,TRUE,TRUE,TRUE,Pathogenic/Likely pathogenic,Switch region [137-163],C5.1,tgactctgactcacagtgagtgtctgtgac
+23,TNNI3,R,W,162,R162W,TRUE,TRUE,TRUE,Pathogenic/Likely pathogenic,Switch region [137-163],C6.4,tctgtgagacactgactctctctgagtctg
+24,TNNI3,A,V,157,A157V,FALSE,TRUE,FALSE,Pathogenic/Likely pathogenic,Switch region [137-163],C7.1,agagactgagagagactgagtcagtgagac
+25,TNNI3,R,Q,145,R145Q,TRUE,TRUE,TRUE,Pathogenic/Likely pathogenic,Switch region [137-163],C8.1,tcagtgactgagtctcactcacacagtgtc
+26,TNNI3,R,W,145,R145W,TRUE,TRUE,TRUE,Pathogenic,Switch region [137-163],C9.1,agagtgtctgtgactcactcagactgactg
+27,TNNI3,R,Q,136,R136Q,FALSE,TRUE,FALSE,Pathogenic/Likely pathogenic,TnT-binding region [66-136],E1.1,tcacactgactgactgtgtcagtcagtgtc
+28,TNNI3,Q,X,175,Q175X,FALSE,TRUE,FALSE,Pathogenic,C-terminal mobile domain [164-210],E10.7,tctctctctgtgtcacagtgtcagagactg
+29,TNNI3,K,del,183,K183del,FALSE,TRUE,FALSE,Pathogenic,C-terminal mobile domain [164-210],E11.20,actgacagtgtgtgactgtcactgagagag
+30,TNNI3,K,del,177,K177del,FALSE,FALSE,FALSE,Other,C-terminal mobile domain [164-210],E12.1,tgtgtgagtgagtgtcagagtctcactgag
+31,TNNI3,S,A,44,S44A,FALSE,FALSE,TRUE,Pathogenic,N-terminal conserved region [42-65],E2.11,agtctcagtgactctctgtctctcagagag
+32,TNNI3,R,C,21,R21C,FALSE,TRUE,FALSE,Pathogenic,Cardiac-specific N-terminal extension [1-30],E3.1,tctctgactctctctgtgtcagtgtcagtg
+33,TNNI3,P,S,82,P82S,TRUE,FALSE,FALSE,Benign/Likely benign,TnT-binding region [66-136],E4.8,acacactcagtcactgactctgtctctgtg
+34,TNNI3,E,E,179,E179E,FALSE,FALSE,FALSE,Synonymous,C-terminal mobile domain [164-210],E5.3,actcagactcagagtgtctctcagactctg
+35,TNNI3,A,A,91,A91A,FALSE,FALSE,FALSE,Synonymous,TnT-binding region [66-136],E6.1,agagagacagtctcactgtctgagtgtcag
+36,TNNI3,H,H,101,H101H,FALSE,FALSE,FALSE,Synonymous,TnT-binding region [66-136],E7.1,tcagtctcacagagagagacagagagagac
+37,TNNI3,Y,Y,112,Y112Y,FALSE,FALSE,FALSE,Synonymous,TnT-binding region [66-136],E8.1,tctcactctgtgtctgtctctctgactgac
+38,TNNI3,I,I,195,I195I,FALSE,FALSE,FALSE,Synonymous,C-terminal mobile domain [164-210],E9.2,tgtctctctctctgtctctctgtcactgag
+39,TNNI3,K,I,206,K206I,FALSE,FALSE,FALSE,Pathogenic,C-terminal mobile domain [164-210],G1.8,tcagactgtgtcagactctctctgtgagag
+40,TNNI3,K,E,206,K206E,FALSE,FALSE,FALSE,Pathogenic,C-terminal mobile domain [164-210],G2.4,tgtcagactcactgtgtctgactcacagac
+41,TNNI3,K,Q,206,K206Q,FALSE,TRUE,FALSE,Pathogenic,C-terminal mobile domain [164-210],G3.4,tcactctctctcactgagtctgagactctg
+42,TNNI3,R,H,204,R204H,FALSE,TRUE,FALSE,Pathogenic/Likely pathogenic,C-terminal mobile domain [164-210],G4.5,acagtcagtgagactgtgagagacagagag
+43,TNNI3,G,S,203,G203S,FALSE,TRUE,FALSE,Pathogenic,C-terminal mobile domain [164-210],G5.10,tgactgagacagagagtctcagagagtcag
+44,TNNI3,S,D,2324,S23DS24D,FALSE,FALSE,FALSE,Phosphomimetic,Cardiac-specific N-terminal extension [1-30],pm23.16,agagacagtgtcagagagtgtgactcacag
+45,TNNI3,S,D,4244,S42DS44D,FALSE,FALSE,FALSE,Phosphomimetic,N-terminal conserved region [42-65],pm42.5,tgtgtcactcagactgacagacagtgtgtg
+46,TNNI3,T,E,143,T143E,FALSE,FALSE,FALSE,Phosphomimetic,Switch region [137-163],pm143.1,agagagactgactctgagagagtcagactg
+47,TNNI1,NA,NA,NA,TNNI1,FALSE,FALSE,FALSE,Wildtype,NA,1WT.1,cactctctctctgtgtcagagagactgtct
+48,TNNI3,NA,NA,NA,WT,FALSE,FALSE,FALSE,Wildtype,NA,3WT.7,agtgacacactgtgtcactgagagtgtgag
+49,Luciferase,NA,NA,NA,Luciferase,FALSE,FALSE,FALSE,Wildtype,NA,luc.3,tcagtctgtctgtgtctctgtctgagagag

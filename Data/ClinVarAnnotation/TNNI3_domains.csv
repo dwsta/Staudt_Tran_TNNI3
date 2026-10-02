@@ -1,0 +1,7 @@
+﻿Domain,Residue start,Residue stop
+Cardiac-specific N-terminal extension,1,30
+N-terminal conserved region,42,65
+TnT-binding region,66,136
+Inhibitory region,137,148
+Switch region,148,163
+C-terminal mobile domain,164,210

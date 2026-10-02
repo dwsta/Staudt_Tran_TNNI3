@@ -1,0 +1,21 @@
+﻿AA.name1,AA.name2,AA.name3,AA.group,AA.PTM
+Arginine,Arg,R,Positive side chain,TRUE
+Histidine,His,H,Positive side chain,FALSE
+Lysine,Lys,K,Positive side chain,TRUE
+Aspartic Acid,Asp,D,Negative side chain,TRUE
+Glutamic Acid,Glu,E,Negative side chain,FALSE
+Serine,Ser,S,Polar uncharged side chain,TRUE
+Threonine,Thr,T,Polar uncharged side chain,TRUE
+Asparagine,Asn,N,Polar uncharged side chain,TRUE
+Glutamine,Gln,Q,Polar uncharged side chain,FALSE
+Cysteine,Cys,C,Special case,TRUE
+Glycine,Gly,G,Special case,FALSE
+Proline,Pro,P,Special case,TRUE
+Alanine,Ala,A,Hydrophobic side chain,TRUE
+Valine,Val,V,Hydrophobic side chain,FALSE
+Isoleucine,Ile,I,Hydrophobic side chain,FALSE
+Leucine,Leu,L,Hydrophobic side chain,FALSE
+Methionine,Met,M,Hydrophobic side chain,TRUE
+Phenylalanine,Phe,F,Hydrophobic side chain,FALSE
+Tyrosine,Tyr,Y,Hydrophobic side chain,TRUE
+Tryptophan,Trp,W,Hydrophobic side chain,FALSE
